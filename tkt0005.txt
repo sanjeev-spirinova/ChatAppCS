@@ -1,0 +1,29 @@
+Service Rep: Thank you for calling Google Cloud support. How may I assist you today?
+
+Customer: Hi, I'm trying to create a Google Cloud account and use the available credits, but I'm not sure how to get started.
+
+Service Rep: Sure, I'd be happy to assist you with that. Have you already created a Google account?
+
+Customer: Yes, I have.
+
+Service Rep: Great. You can start by going to the Google Cloud website and clicking on the "Get Started for Free" button.
+
+Customer: Okay, I see that.
+
+Service Rep: Once you click on that, you'll be prompted to create a new project. You can give your project a name and then select your preferred billing account. If you don't have a billing account set up yet, you'll need to create one before you can proceed.
+
+Customer: Alright, I think I can do that.
+
+Service Rep: After you've created your project and selected your billing account, you can click on the "Activate" button to activate your free trial credits. Once you've done that, you'll be able to start using the Google Cloud services.
+
+Customer: That sounds straightforward enough, I can do that by myself. Is there anything else I should know?
+
+Service Rep: Yes, just be sure to keep an eye on your usage during your free trial period. Once your credits are used up, you'll start being charged for any additional usage. But don't worry, you'll receive notifications when you're approaching your credit limit.
+
+Customer: I also want to test BigQuery. Can you give me some advice on how to use it?
+
+Google Cloud Service Rep: Of course! BigQuery is a powerful tool for analyzing large datasets. If you're new to BigQuery, I'd recommend starting with some of our online documentation and tutorials. You can find these on the BigQuery website, or we can engage a specialist who can guide you through the process. Would you like me to connect you with a specialist?
+
+Customer: Yes, please.
+
+Service Rep: Okay, I'll connect you with a specialist who can help you get started with BigQuery.

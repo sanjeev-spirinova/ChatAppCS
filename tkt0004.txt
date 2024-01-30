@@ -1,0 +1,4 @@
+Customer: I received my recent bill, and there seems to be a discrepancy. The amount is higher than usual.
+Service Rep: I apologize for the inconvenience. Let me review your billing statement. Can you confirm the invoice number and the specific charges you are questioning?
+Customer: The invoice number is 987654321, and I noticed an additional charge for a service I didn't request.
+Service Rep: I appreciate your patience. I will investigate this issue and get back to you with a resolution.

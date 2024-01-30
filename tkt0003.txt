@@ -1,0 +1,5 @@
+Service Rep: Hello! How may I assist you?
+Customer: I recently purchased a product, but it's not what I expected. I'd like to initiate a return.
+Service Rep: I'm sorry to hear that. We have a hassle-free return process. May I have your order number, please?
+Customer: Certainly, it's 76543210.
+Service Rep: Thank you. I'll initiate the return process for you. You should receive an email with further instructions shortly.
